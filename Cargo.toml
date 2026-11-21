@@ -1,10 +1,10 @@
 [package]
-name = "arch-flatpak"
+name = "sigmaos-flatpak"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-flatpak component - SigmaOS component"
+description = "SigmaOS SigmaOS-flatpak component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-flatpak"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-flatpak"
 
 [dependencies]
 thiserror = "2"

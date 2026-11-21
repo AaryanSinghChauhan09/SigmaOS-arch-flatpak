@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-flatpak"
+name = "SigmaOS-flatpak"
 tier = 2
 stability = "scaffold"
 language = "rust"

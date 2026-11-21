@@ -1,4 +1,4 @@
-# SigmaOS-arch-flatpak
+# SigmaOS-flatpak
 
 GitHub description is a placeholder; component scope remains unclassified.
 
